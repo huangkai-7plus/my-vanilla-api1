@@ -10,7 +10,7 @@ using Newtonsoft.Json;
 
 namespace GetMessage
 {
-    public static class Function1
+    public static class GetMessage
     {
         [FunctionName("Function1")]
         public static async Task<IActionResult> Run(
